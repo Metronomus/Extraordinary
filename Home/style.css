@@ -1,0 +1,33 @@
+.menu {  
+  background-color: orange;
+  height: 50px;
+  border: 1px solid orange;
+  
+}
+
+li {
+  display: inline-block;
+  padding: 13px 0px;
+ }
+
+.menu a {
+  
+  text-decoration: none;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 20px 5px;
+
+
+}
+
+.menu a:hover {
+  color: orange;
+  background-color: white;
+}
+
+#home {
+  color: orange;
+  background-color: white
+}
